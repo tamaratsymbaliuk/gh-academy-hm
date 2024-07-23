@@ -28,6 +28,5 @@ public class Solution {
         // fast pointer reached null or fast.next is null, wich means end of
         // the linked list. So, there is no cycle in the linked list - return false;
         return false;
-
     }
 }
